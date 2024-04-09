@@ -1,5 +1,3 @@
-Job Logger
-Overview
 Job Logger is a Flask-based web application designed to help users keep track of job applications. Users can log in, record details of their job applications, and view a dashboard summarizing their application history.
 
 Features
